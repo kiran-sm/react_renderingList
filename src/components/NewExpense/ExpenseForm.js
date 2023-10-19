@@ -19,7 +19,7 @@ const ExpenseForm = () => {
   };
 
   return (
-    <form>
+    <form onSubmit={}>
       <div className="new-expense__controls">
         <div className="new-expense__control">
           <label>Title</label>
@@ -39,7 +39,7 @@ const ExpenseForm = () => {
           <input
             type="date"
             min="2019-01-01"
-            max="2022-12-31"
+            max="2022-11-31"
             onChange={dateChangeHandler}
           />
         </div>
