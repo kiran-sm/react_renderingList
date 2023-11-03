@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_renderingList/static/css/main.049c8b69.css",
+    "main.js": "/react_renderingList/static/js/main.e4726b1d.js",
+    "index.html": "/react_renderingList/index.html",
+    "main.049c8b69.css.map": "/react_renderingList/static/css/main.049c8b69.css.map",
+    "main.e4726b1d.js.map": "/react_renderingList/static/js/main.e4726b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.049c8b69.css",
+    "static/js/main.e4726b1d.js"
+  ]
+}
